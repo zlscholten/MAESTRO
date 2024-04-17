@@ -1,0 +1,3 @@
+MAESTRO is simple acoustic detection and ranging system which works similar to a conventional pulse-Doppler radar. MAESTRO has been designed as a senior design project for the Auburn University Samuel Ginn College of Engineering Department of Electrical and Computer Engineering. The python files in the src directory have been designed to run on a Raspberry Pi 5 which transmits instructions to an external peripheral, receives data from that peripheral, processes that data, and displays the processing results.
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
