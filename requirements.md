@@ -1,7 +1,10 @@
+colorzero==2.0
 contourpy==1.2.1
 cycler==0.12.1
 fonttools==4.51.0
+gpiozero==2.0.1
 kiwisolver==1.4.5
+lgpio==0.2.2.0
 matplotlib==3.8.4
 numpy==1.26.4
 packaging==24.0
